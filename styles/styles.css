@@ -1,0 +1,29 @@
+.hero-btn {
+  background-color: #F6D88C;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 16px;
+  outline: none;
+}
+
+.hero-btn:hover {
+  background-color: hsl(135, 85%, 76%);
+  border-radius: 100px;
+  font-size: 25px;
+}
+
+.hero-btn:focus{
+  background-color: rgb(141, 88, 50);
+  border-radius: 5px;
+}
+
+
+.hero-title:hover{
+  color: red;
+  font-size: 25px;
+}
+
+.navigation-link:active{
+  color: aqua;
+}
+
