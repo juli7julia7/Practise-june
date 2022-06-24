@@ -30,9 +30,9 @@
 :root {
   --primary-color: #181817;
   --secondary-color: #6F6F6F; 
-  -- accent-color: #F6D88C; 
+  --accent-color: #F6D88C; 
   --common-color: #F8F3EC;  
-  --main font:'Darker Grotesque', sans-serif;
+  --main-font:'Darker Grotesque', sans-serif;
   --title-size: 65px;
   --text-size: 22px;
 }
