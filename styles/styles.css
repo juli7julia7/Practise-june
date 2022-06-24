@@ -1,4 +1,4 @@
-.hero-btn {
+/* .hero-btn {
   background-color: #F6D88C;
   border: none;
   box-sizing: border-box;
@@ -25,5 +25,28 @@
 
 .navigation-link:active{
   color: aqua;
+} */
+
+:root {
+  --primary-color: #181817;
+  --secondary-color: #6F6F6F; 
+  -- accent-color: #F6D88C; 
+  --common-color: #F8F3EC;  
+  --main font:'Darker Grotesque', sans-serif;
+  --title-size: 65px;
+  --text-size: 22px;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.wrapper{
+  background: #F8F3EC;
+}
